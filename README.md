@@ -20,25 +20,19 @@
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=j1h00&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=j1h00&theme=radical&hide_border=true" />
+  <a href="https://github.com/j1h00/TIL_public">
+    <img src="https://github-readme-stats.vercel.app/api?username=j1h00&show_icons=true&theme=radical&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=j1h00&theme=radical&hide_border=true" />
+  </a>
 </p>
 <br>
 
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=j1h00" />
+  <a href="https://solved.ac/profile/j1h00">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=j1h00" />
+  </a>
 </p>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/1z1vg1vzdy133j5ou5zyg9fk1">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-<div align="center">
-  <a href="https://open.spotify.com/user/1z1vg1vzdy133j5ou5zyg9fk1">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
 <!--
 
 
