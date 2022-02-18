@@ -4,7 +4,9 @@
 
 <p>
 <div align="center">
-<img src ="http://img.shields.io/badge/-MyPortfolio-black?style=flat-square&link=https://j1h00.github.io/portfolio/"/> 
+  <a href="https://j1h00.github.io/portfolio">
+    <img src ="http://img.shields.io/badge/-MyPortfolio-black?style=flat-square/"/> 
+  </a>
 <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
