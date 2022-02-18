@@ -21,8 +21,8 @@
 <br/>
 <p align="left">
   <a href="https://github.com/j1h00/TIL_public">
-    <img src="https://github-readme-stats.vercel.app/api?username=j1h00&show_icons=true&theme=radical&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=j1h00&theme=radical&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=j1h00&show_icons=true&theme=radical&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=j1h00&theme=radical&hide_border=true" />
   </a>
 </p>
 <br>
