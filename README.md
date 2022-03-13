@@ -4,7 +4,7 @@
 
 <p>
 <div align="center">
-  <a href="https://j1h00.github.io/portfolio">
+  <a href="https://j1h00.github.io/jihoo/">
     <img src ="http://img.shields.io/badge/-MyPortfolio-black?style=flat-square/"/> 
   </a>
 <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> 
