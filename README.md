@@ -7,13 +7,16 @@
   <a href="https://j1h00.github.io/jihoo/">
     <img src ="http://img.shields.io/badge/-MyPortfolio-black?style=flat-square/"/> 
   </a>
+    <a href="https://velog.io/@j1h00">
+    <img src ="https://img.shields.io/badge/Velog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white"/> 
+  </a>
 <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/vue-4479A1?style=flat-square&logo=vue&logoColor=white">
+<img src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=Vue.js&logoColor=fff">
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/next-4479A1?style=flat-square&logo=next&logoColor=white">
+<img src="https://img.shields.io/badge/-Next-000000?style=flat&logo=nextdotjs&logoColor=fff">
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
