@@ -33,15 +33,15 @@
 </p>
 <br>
 
+<!--
 <p align="center">
   <a href="https://solved.ac/profile/j1h00">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=j1h00" />
   </a>
 </p>
+-->
 
 <!--
-
-
 ```python
 class J1h00():
     
